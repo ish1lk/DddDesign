@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    background-image: url(../images/header2.png);
+    background-repeat: no-repeat;
+    /*background-position: right bottom;*/
+    /*background-attachment: fixed;*/
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+a {
+    color: rgb(213, 213, 213);
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.header1 h1 {
+    color:rgb(213, 213, 213);
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    margin-left: 40px;
+}
+
+.list {
+    color:rgb(213, 213, 213);
+    border: 3px solid rgb(33, 73, 99, 100);
+    border: 10px 10px 10px 10px;
+    text-align: center;
+    list-style-type: none;
+    padding: 22px 10px 22px 10px;
+}
+
+.list li {
+    padding-left: 100px;
+    display: inline;
+}
+
+.paragraph1 {
+    color:rgb(213, 213, 213);
+    padding-left: 40px;
+}
+
+.paragraph2 {
+    color:rgb(213, 213, 213);
+    padding-left: 40px;
+}
+
+.paragraph3 {
+    color:rgb(213, 213, 213);
+    padding-left: 40px;
+}
+
+.classh2 {
+    color: #387D90;
+    padding-left: 40px;
+}
+
+.classh22 {
+    color: #387D90;
+    padding-left: 40px;
+}
+
+.paragraph2 p {
+    margin-bottom: 9px;
+}
+
+.paragraph3 p {
+    margin-top: 1px;
+}
+
+.classh222 {
+    color: #387D90;
+    padding-left: 40px;
+}
+
+.table {
+    color:rgb(213, 213, 213);
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; /* Ширина таблицы, может быть настроена по желанию */
+    text-align: left; /* Центрирование текста внутри таблицы */
+    border-spacing: 200px 2px;
+}
+
+.zgolovok {
+    color: #A6739A;
+}
+
+.classh2222 {
+    color: #387D90;
+    padding-left: 40px;
+}
+
+.paragraph4 {
+    color:#D5E1D5;
+    padding-left: 40px;
+}
+
+.logo1 {
+    font-weight: bold;
+}
+
+
+
